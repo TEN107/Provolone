@@ -100,4 +100,17 @@ button[type='submit']:hover {
     display: block;
     width: 100%;
   }
+  .back-button {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.back-button:hover {
+    background-color: #0056b3;
+}
 }
